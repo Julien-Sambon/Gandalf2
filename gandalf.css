@@ -1,0 +1,76 @@
+#masque
+{
+	opacity: 1;
+	display: flex;
+	position: absolute;
+	margin: auto;
+	width: 500px;
+	height: 572px;
+}
+
+#masque:hover
+{
+	opacity: 0;
+	display: flex;
+	position: absolute;
+	margin: auto;
+	width: 500px;
+	height: 572px;
+}
+
+#gandalf
+{
+	display: flex;
+	position: relative;
+	margin: auto;
+	width: 500px;
+	height: 572px;
+	margin-top: 50px;
+}
+
+#blanc
+{
+	display: flex;
+	position: absolute;
+	margin: auto;
+	background-color: #FFFFFF;
+	opacity: 0.4;
+	width: 500px;
+	height: 572px;
+}
+
+#gold
+{
+	display: flex;
+	position: absolute;
+	background-color: #FFFFFF;
+	opacity: 0.8;
+	border-radius: 10px;
+	width: 450px;
+	height: 150px;
+	margin-left: 25px;
+	margin-top: 20px;
+}
+
+#texte
+{
+	display: flex;
+	position: absolute;
+	margin-left: 80px;
+	margin-top: 200px;
+	font-size: 100px;
+	color: #FFFFFF;
+}
+
+
+#orange
+{
+	color: #ED7F10;
+}
+
+.texte
+{
+	font-size: 60px;
+	margin-top: 0px;
+	margin-left: 70px;
+}
